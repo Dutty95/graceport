@@ -56,8 +56,7 @@ const Hero: React.FC = () => {
             {/* Image Container with Custom Shape */}
             <div className="w-full h-full rounded-[2rem] overflow-hidden border-4 border-white shadow-2xl relative">
               <img 
-                src="/Grace.jpg" 
-                alt="Grace Kazeem" 
+                src="/grace.jpg" alt="Grace Kazeem" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />
               
